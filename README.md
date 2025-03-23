@@ -1,9 +1,5 @@
 # Hola, soy Álvaro.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/TU_USUARIO/TU_REPOSITORIO)
-![GitHub license](https://img.shields.io/github/license/TU_USUARIO/TU_REPOSITORIO)
-![GitHub followers](https://img.shields.io/github/followers/TU_USUARIO?style=social)
-
 Soy un estudiante de primer año en Desarrollo de Aplicaciones Web, y este es mi repositorio personal donde compartiré mis proyectos, aprendizajes y recursos relacionados con el desarrollo web.
 
 ## Tecnologías que Uso
@@ -23,18 +19,8 @@ Soy un apasionado del desarrollo web y actualmente estoy aprendiendo HTML, CSS y
 - **JavaScript**: Interactividad básica y manipulación del DOM.
 - **Python**: Uso básico para scripts y automatización.
 
-## Proyectos futuros
-
-En este repositorio, planeo agregar los proyectos en los que trabaje durante mis estudios. Algunos de los proyectos que tengo en mente son:
-- Aplicaciones de tareas o listas de cosas por hacer.
-- Páginas web estáticas con un diseño limpio y profesional.
-- Proyectos interactivos con JavaScript.
-
 ## Contacto
 
 - **Correo electrónico**: [alvarorioscallejas@gmail.com]
 - **GitHub**: [alvarorc13](https://github.com/alvarorc13)
-
-## Licencia
-
-Este repositorio está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para más detalles.
+- **LinkedIn**: [mi LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-r%C3%ADos-callejas-a284111b4/)
