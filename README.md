@@ -1,26 +1,37 @@
-# Hola, soy Álvaro.
+### 👋 ¡Hola! Soy Álvaro Ríos Callejas
 
-Soy un estudiante de primer año en Desarrollo de Aplicaciones Web, y este es mi repositorio personal donde compartiré mis proyectos, aprendizajes y recursos relacionados con el desarrollo web.
+Desarrollador **Full Stack Junior** con enfoque en **DevSecOps** e integración de **IA aplicada** al desarrollo. Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
 
-## Tecnologías que Uso
+Actualmente aplicando lo aprendido en mis prácticas en Getronics (Sevilla), donde trabajé montando pipelines CI/CD completos e integrando análisis de seguridad en el ciclo de desarrollo.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+---
 
-## Acerca de mí
+### 🚀 En lo que estoy trabajando
 
-Soy un apasionado del desarrollo web y actualmente estoy aprendiendo HTML, CSS y JavaScript. Mi objetivo es mejorar mis habilidades en programación y crear aplicaciones web útiles y bien diseñadas.
+- Construyendo proyectos full stack completos (Angular + Spring Boot) con arquitectura por roles y despliegue automatizado.
+- Aplicando prácticas DevSecOps en proyectos personales: Jenkins, SonarQube, Docker.
+- Explorando el uso de agentes de IA (Claude, GitHub Copilot) como parte del flujo de desarrollo diario.
 
-### Habilidades actuales:
-- **HTML5**: Estructuración de contenido web.
-- **CSS3**: Estilización y diseño de páginas web.
-- **JavaScript**: Interactividad básica y manipulación del DOM.
-- **Python**: Uso básico para scripts y automatización.
+### 🛠️ Stack
 
-## Contacto
+**Frontend**
+`Angular` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap`
 
-- **Correo electrónico**: [alvarorioscallejas@gmail.com]
-- **GitHub**: [alvarorc13](https://github.com/alvarorc13)
-- **LinkedIn**: [mi LinkedIn](https://www.linkedin.com/in/%C3%A1lvaro-r%C3%ADos-callejas-a284111b4/)
+**Backend**
+`Java` `Spring Boot` `Microservicios` `API REST` `Node.js` `Python` `PHP`
+
+**Bases de datos**
+`MySQL` `Oracle` `SQL Server` `MongoDB`
+
+**DevSecOps**
+`Jenkins` `SonarQube` `Nexus` `Harbor` `Docker` `CI/CD` `Git`
+
+### 📌 Proyecto destacado
+
+**[La Trattoria](https://github.com/alvarorc13/la-trattoria-backend)** — App full stack para gestión de restaurante con dos interfaces: una móvil vía QR para clientes (carta, carrito, pago) y un panel de escritorio con login y control de roles (cocina, camarero, admin, superadmin) para gestionar pedidos en tiempo real y la carta.
+
+### 📫 Contacto
+
+- 📧 alvarorioscallejas@gmail.com
+- 💼 [LinkedIn](#) <!-- pega aquí tu URL de LinkedIn -->
+- 📍 Sevilla, España — disponibilidad total e incorporación inmediata
