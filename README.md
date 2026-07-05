@@ -14,24 +14,17 @@ Actualmente aplicando lo aprendido en mis prácticas en Getronics (Sevilla), don
 
 ### 🛠️ Stack
 
-**Frontend**
-`Angular` `React` `TypeScript` `JavaScript` `HTML5` `CSS3` `Bootstrap`
+[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,bootstrap,figma,java,spring,nodejs,php,python,mysql,oracle,mongodb,docker,jenkins,git,github&theme=dark)](https://skillicons.dev)
 
-**Backend**
-`Java` `Spring Boot` `Microservicios` `API REST` `Node.js` `Python` `PHP`
+### 📌 Proyecto destacado — La Trattoria
 
-**Bases de datos**
-`MySQL` `Oracle` `SQL Server` `MongoDB`
+App full stack para gestión de restaurante con dos interfaces: una móvil vía QR para clientes (carta, carrito, pago) y un panel de escritorio con login y control de roles (cocina, camarero, admin, superadmin) para gestionar pedidos en tiempo real y la carta.
 
-**DevSecOps**
-`Jenkins` `SonarQube` `Nexus` `Harbor` `Docker` `CI/CD` `Git`
-
-### 📌 Proyecto destacado
-
-**[La Trattoria](https://github.com/alvarorc13/la-trattoria-backend)** — App full stack para gestión de restaurante con dos interfaces: una móvil vía QR para clientes (carta, carrito, pago) y un panel de escritorio con login y control de roles (cocina, camarero, admin, superadmin) para gestionar pedidos en tiempo real y la carta.
+- 🔗 [Repositorio Backend](https://github.com/alvarorc13/la-trattoria-backend) — API REST en Spring Boot
+- 🔗 [Repositorio Frontend](https://github.com/alvarorc13/la-trattoria-frontend) — Angular
 
 ### 📫 Contacto
 
 - 📧 alvarorioscallejas@gmail.com
-- 💼 [LinkedIn](#) <!-- pega aquí tu URL de LinkedIn -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/álvaro-ríos-callejas-a284111b4)
 - 📍 Sevilla, España — disponibilidad total e incorporación inmediata
